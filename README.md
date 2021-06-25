@@ -1,6 +1,6 @@
 # Feel-Good-App
 This app can run on Android devices , iOS and also on Desktop Devices. It is a GUI based where the user has to login or sign up to register along with password setting. After that user has to input how they are feeling and according to that the app will provide happy and enlightening quotes.
-![1](https://user-images.githubusercontent.com/70461834/123371392-56572480-d59f-11eb-8a51-ffc401416ff6.jpeg)
+![1](https://user-images.githubusercontent.com/70461834/123371392-56572480-d59f-11eb-8a51-ffc401416ff6.jpeg = 250*250)
 ![2](https://user-images.githubusercontent.com/70461834/123371400-59eaab80-d59f-11eb-8ae7-7d98c0742cf3.jpeg)
 ![3](https://user-images.githubusercontent.com/70461834/123371404-5c4d0580-d59f-11eb-80cd-1576236eec00.jpeg)
 ![4](https://user-images.githubusercontent.com/70461834/123371413-5e16c900-d59f-11eb-9ac6-1d449fe3ca11.jpeg)
